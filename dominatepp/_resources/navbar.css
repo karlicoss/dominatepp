@@ -1,0 +1,23 @@
+/* Style for navigation bar */
+
+nav {
+    float: left;
+    position: fixed;
+
+    width: 70px;
+    height: 100%; /* TODO ??? if I don't set this, scroll doesn't work */
+    overflow: scroll;
+}
+
+nav a {
+    display: block;
+
+    color:#2477b3;
+    text-decoration:none;
+    font-size: x-large;
+    line-height: normal;
+}
+
+nav .selected {
+    color: red;
+}
