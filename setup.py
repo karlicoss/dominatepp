@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='dominatepp',
-    version='0.1.1',
+    version='0.1.2',
     description='Dominate++ is a collection of utility functions for HTML rendering based on Dominate',
     url='https://github.com/karlicoss/dominatepp',
     author='Flying Circus',

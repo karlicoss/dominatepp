@@ -1,1 +1,1 @@
-from .misc import stylesheet, a_link
+from .misc import a_link, inline_script, inline_script_from, stylesheet
